@@ -1,0 +1,29 @@
+body{
+    color:darkslategrey;  
+}
+
+h3{
+    font-style: italic;
+}
+
+h2{
+    font-weight: normal;
+}
+
+h1{
+    font-family: cursive;
+}
+
+.size{
+    font-size: 30px;
+    text-align: center;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
